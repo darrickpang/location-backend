@@ -25,8 +25,6 @@ default: &default
 development:
   <<: *default
   database: location_backend_development
-  # username: darrickpang
-  # password: Abc123() 
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
