@@ -28,4 +28,4 @@
 
 # password 
 .env 
-database.yml
+/config/database.yml
