@@ -8,6 +8,6 @@ class CreateTrips < ActiveRecord::Migration[6.0]
       t.timestamps
     end
     add_index :trips, :viewer_uuid
-    add index :trips, :owner_uuid
+    add_index :trips, :owner_uuid
   end
 end
