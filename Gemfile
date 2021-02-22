@@ -46,4 +46,4 @@ gem "active_model_serializers", "~> 0.10.7"
 gem 'fast_jsonapi'
 gem "react_on_rails", "= 12.0"
 
-gem 'mini_racer', platforms: :ruby
+# gem 'mini_racer', platforms: :ruby
